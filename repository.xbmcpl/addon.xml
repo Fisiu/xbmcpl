@@ -3,7 +3,7 @@
     <extension point="xbmc.addon.repository" name="xbmcpl Addons">
         <info compressed="false">https://raw.github.com/Fisiu/xbmcpl/gotham/addons.xml</info>
         <checksum>https://raw.github.com/Fisiu/xbmcpl/gotham/addons.xml.md5</checksum>
-        <datadir zip="false">https://raw.github.com/Fisiu/xbmcpl/gotham/download</datadir>
+        <datadir zip="false">https://raw.github.com/Fisiu/xbmcpl/gotham</datadir>
         <hashes>false</hashes>
     </extension>
     <extension point="xbmc.addon.metadata">
