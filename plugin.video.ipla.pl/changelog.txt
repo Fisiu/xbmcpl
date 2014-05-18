@@ -1,6 +1,7 @@
-v0.3.4:
+[COLOR orange][B]0.3.4[/B][/COLOR]
 - Fix compatibility with XBMC 13 Gotham.
 
-v0.3.3
+[COLOR orange][B]0.3.3[/B][/COLOR]
 - Import from smuto.
 - List new episodes.
+
