@@ -1,0 +1,6 @@
+0.3.4:
+- Fix compatibility with XBMC 13 Gotham.
+
+0.3.3
+- Import from smuto.
+- List new episodes.
