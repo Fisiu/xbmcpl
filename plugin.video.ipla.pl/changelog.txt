@@ -1,3 +1,6 @@
+[COLOR orange][B]0.3.5[/B][/COLOR]
+- Reformat addon.xml to make it work with Kodi 16.
+
 [COLOR orange][B]0.3.4[/B][/COLOR]
 - Fix compatibility with XBMC 13 Gotham.
 
